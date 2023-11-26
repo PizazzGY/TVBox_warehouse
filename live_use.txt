@@ -45,3 +45,5 @@ http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-id="苏州社会经济" tvg-name="苏州社会经济" group-title="苏州",苏州社会经济
 http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 group-title="上海",上海新闻
+http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
