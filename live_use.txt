@@ -1,4 +1,4 @@
-央视频道,#genre#
+自用频道,#genre#
 CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -13,7 +13,6 @@ CCTV-10 科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/ind
 CCTV-12 社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV-13 新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 
-卫视频道,#genre#
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -29,18 +28,40 @@ CCTV-13 新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/ind
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-浙江卫视,http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
+北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.164/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
+天津卫视,http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8
+山东卫视,http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
 江苏卫视,http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u8
+江苏卫视,http://39.134.65.181/PLTV/88888888/224/3221225503/1.m3u8
+江苏卫视,http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8
+江苏卫视,http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
+东方卫视,http://39.134.65.164/PLTV/88888888/224/3221225672/1.m3u8
+东方卫视,http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
+东方卫视,http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8
+东方卫视,http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8
+浙江卫视,http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
+浙江卫视,http://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8
+浙江卫视,http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
+浙江卫视,http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8
+湖北卫视,http://39.134.65.164/PLTV/88888888/224/3221225569/1.m3u8
+湖北卫视,http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8
+湖南卫视,http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
+湖南卫视,http://39.134.65.173/PLTV/88888888/224/3221225506/1.m3u8
+湖南卫视,http://39.134.65.166/PLTV/88888888/224/3221225506/1.m3u8
+湖南卫视,http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
+湖南卫视,http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8
+贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
+吉林卫视,http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
 
-苏州频道,#genre#
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 
-上海频道,#genre#
 上海新闻综合,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
-五星体育,http://111.40.196.27:443/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
