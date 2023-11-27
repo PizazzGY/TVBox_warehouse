@@ -169,3 +169,11 @@ CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 上海｜第一财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 上海｜崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 上海｜嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
+浙江｜卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+翡翠台,http://r.jdshipin.com/n90gt
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
+星河台,http://113.117.74.12:8081/hls/135/index.m3u8
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻台,http://r.jdshipin.com/CkuBd
