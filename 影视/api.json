@@ -1,8 +1,8 @@
-{"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336",
+{"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
-	{"key":"弹幕","name":"弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;7cd8fbcc323844e2525595be4d5aa7eb"},
+	{"key":"弹幕","name":"弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;02d800e8b76465acdd1f989d6b7db868"},
 	{"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czz9.com/"},
 	{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
