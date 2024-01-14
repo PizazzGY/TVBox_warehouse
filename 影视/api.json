@@ -1,4 +1,4 @@
-{"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a83a50484ea2d7a8aa6b37957a05a805",
+{"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;cc30110d10d8256a64942bef78503262",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"二〇二四","type":3,"api":"csp_Douban","searchable":0},
@@ -25,7 +25,7 @@
 	{"key":"追剧迷","name":"追剧迷","type":3,"api":"./JS/drpy.min.js","ext":"./JS/追剧迷.js"},
 	{"key":"一三九","name":"一三九","type":3,"api":"./JS/drpy.min.js","ext":"./JS/一三九.js"},
 	{"key":"四个圈","name":"四个圈","type":3,"api":"./JS/drpy.min.js","ext":"./JS/四个圈.js"},
-	{"key":"看了么","name":"看了么","type":3,"api":"./JS/drpy.min.js","ext":"./JS/看了么.js"},
+	{"key":"看了么","name":"看了么","type":3,"api":"./JS/drpy.min.js"，"ext":"./JS/看了么.js"},
 	{"key":"美益达","name":"美益达","type":3,"api":"./JS/drpy.min.js","ext":"./JS/美益达.js"},
 	{"key":"免费看","name":"免费看","type":3,"api":"./JS/drpy.min.js","ext":"./JS/免费看.js"},
 	{"key":"五五五","name":"五五五","type":3,"api":"./JS/drpy.min.js","ext":"./JS/五五五.js"},
