@@ -3,7 +3,7 @@
 "sites":
 	[{"key":"企鹅体育","name":"企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/企鹅体育.json"},
 	{"key":"武享吧","name":"武享吧","type":3,"api":"./JS/drpy.min.js","ext":"./JS/武享吧.js"},
-	{"key":"88看球","name":"88看球","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;022dc6dd9af10c756f0027a4807b2c4d"},
+	{"key":"88看球","name":"88看球","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
 	{"key":"310直播","name":"310直播","type":3,"api":"./JS/drpy.min.js","ext":"./JS/310直播.js"},
 	{"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"./JS/drpy.min.js","ext":"./JS/JRKAN直播.js"},
 	{"key":"一起看直播","name":"一起看直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQBiu/一起看直播.json"}],
