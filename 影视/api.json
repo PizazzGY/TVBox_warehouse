@@ -2,7 +2,10 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"二〇二四","type":3,"api":"csp_Douban","searchable":0},
-	{"key":"弹幕","name":"弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;022dc6dd9af10c756f0027a4807b2c4d"},
+	{"key":"三六零弹幕","name":"弹幕一","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
+	{"key":"南瓜弹幕","name":"弹幕二","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
+	{"key":"天天弹幕","name":"弹幕三","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
+	{"key":"南坊弹幕","name":"弹幕四","type":3,"api":"csp_AppTo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"string":"vRHcwF2Lt92YuQWd5V2Nt0ib45yd3d3LvoDc0RHaL3Yx"},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
 	{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 	{"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
 	{"key":"二三","name":"二三","type":3,"api":"csp_Ys23","searchable":1,"quickSearch":1,"filterable":1},
