@@ -1,7 +1,7 @@
 {"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;4e1063ce2f374a2e1dc8bfcdb08662f5",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
-	[{"key":"AnFuns","name":"AnFuns","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
+	[{"key":"AnFuns","name":"动漫｜新年快乐","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
 	{"key":"Anime1","name":"Anime1","type":3,"api":"./JS/drpy.min.js","ext":"./JS/Anime1.js"},
 	{"key":"AGE动漫","name":"AGE动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AGE动漫.js"},
 	{"key":"NT动漫","name":"NT动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/NT动漫.js"},
