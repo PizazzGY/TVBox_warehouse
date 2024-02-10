@@ -1,4 +1,4 @@
-{"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;549ad3dd30f6ef766d126386f59f48aa",
+{"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;1a00d5032cc02fad54510bab6d48ed4a",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"AnFuns","name":"新年快乐","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
@@ -6,7 +6,6 @@
 	{"key":"AGE动漫","name":"AGE动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AGE动漫.js"},
 	{"key":"NT动漫","name":"NT动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/NT动漫.js"},
 	{"key":"58动漫","name":"58动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/58动漫.js"},
-	{"key":"二三三","name":"二三三","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二三三.json"},
 	{"key":"路漫漫","name":"路漫漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/路漫漫.js"},
 	{"key":"动漫岛","name":"动漫岛","type":3,"api":"./JS/drpy.min.js","ext":"./JS/动漫岛.js"},
 	{"key":"去看吧","name":"去看吧","type":3,"api":"./JS/drpy.min.js","ext":"./JS/去看吧.js"},
