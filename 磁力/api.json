@@ -2,6 +2,7 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"新年快乐","type":3,"api":"csp_Douban","searchable":0},
+	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"},
 	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;a6396fa9266a28c79d9c84d804b237d6"},
 	{"key":"哔嘀弹幕","name":"弹幕｜哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;a6396fa9266a28c79d9c84d804b237d6"},
 	{"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
