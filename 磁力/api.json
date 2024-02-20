@@ -1,7 +1,7 @@
 {"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;1a00d5032cc02fad54510bab6d48ed4a",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
-	[{"key":"豆瓣","name":"新年快乐","type":3,"api":"csp_Douban","searchable":0},
+	[{"key":"豆瓣","name":"磁力｜首页","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"配置中心","name":"配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;ce9de26ea0c5527313479655c4d3b583"},
 	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;ce9de26ea0c5527313479655c4d3b583"},
 	{"key":"哔嘀弹幕","name":"弹幕｜哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;ce9de26ea0c5527313479655c4d3b583"},
