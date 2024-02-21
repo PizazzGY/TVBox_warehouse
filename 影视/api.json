@@ -1,4 +1,4 @@
-{"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+{"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;38bde333ae9ade3b981612622c0ba82d",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
@@ -8,6 +8,7 @@
 	{"key":"天天弹幕","name":"弹幕三","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;ce9de26ea0c5527313479655c4d3b583"},
 	{"key":"厂长弹幕","name":"弹幕四","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;ce9de26ea0c5527313479655c4d3b583"},
 	{"key":"机器人弹幕","name":"弹幕五","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;ce9de26ea0c5527313479655c4d3b583"},
+	{"key":"影探","name":"影探","type":3,"api":"csp_Yingtantv","searchable":1,"changeable":0},
 	{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 	{"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
 	{"key":"胡胡","name":"胡胡","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
