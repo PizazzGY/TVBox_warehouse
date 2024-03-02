@@ -1,4 +1,4 @@
-{"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+{"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"AnFuns","name":"AnFuns","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
