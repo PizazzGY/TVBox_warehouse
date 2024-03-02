@@ -1,4 +1,4 @@
-{"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+{"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
@@ -9,7 +9,9 @@
 	{"key":"厂长弹幕","name":"弹幕四","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;06145c69c5f366d227e1c24d97fe7ca1"},
 	{"key":"机器人弹幕","name":"弹幕五","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;06145c69c5f366d227e1c24d97fe7ca1"},
 	{"key":"南瓜","name":"南瓜","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;06145c69c5f366d227e1c24d97fe7ca1"},
-	{"key":"天天","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;06145c69c5f366d227e1c24d97fe7ca1"},
+	{"key":"天天","name":"天天","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
+	{"key":"热播","name":"热播","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
+	{"key":"追剧","name":"追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
 	{"key":"胡胡","name":"胡胡","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"高光","name":"高光","type":3,"api":"csp_WebGGYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ggys.me"},
 	{"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bo.czys.me"},
