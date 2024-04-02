@@ -2,7 +2,7 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"播客","name":"播客","type":3,"api":"./js/drpy.min.js","ext":"./js/播客.js"},
-	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6e9cbfda7a63652a4eda744104f4a968"},
+	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;fc1c5bcdb0d48444dc1c08e4e300a9d4"},
 	{"key":"DJ音乐","name":"DJ音乐","type":3,"api":"./js/drpy.min.js","ext":"./js/DJ音乐.js"},
 	{"key":"啦啦DJ","name":"啦啦DJ","type":3,"api":"./js/drpy.min.js","ext":"./js/啦啦DJ.js"},
 	{"key":"清风DJ","name":"清风DJ","type":3,"api":"./js/drpy.min.js","ext":"./js/清风DJ.js"},
