@@ -5,7 +5,7 @@
 	{"key":"配置中心","name":"配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;fc1c5bcdb0d48444dc1c08e4e300a9d4"},
 	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;fc1c5bcdb0d48444dc1c08e4e300a9d4"},
 	{"key":"哔嘀弹幕","name":"弹幕｜哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;fc1c5bcdb0d48444dc1c08e4e300a9d4"},
-	{"key":"不太灵弹幕","name":"弹幕｜不太灵","type":3,"api":"csp_Bt0","searchable":1,"changeable":0,"ext":{"danmu":true},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;fc1c5bcdb0d48444dc1c08e4e300a9d4"},
+	{"key":"不太灵弹幕","name":"弹幕｜不太灵","type":3,"api":"csp_Bt0","searchable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;fc1c5bcdb0d48444dc1c08e4e300a9d4"},
 	{"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 	{"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
 	{"key":"SeedHub","name":"磁力｜SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
