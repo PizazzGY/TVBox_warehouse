@@ -3,7 +3,6 @@
 "sites":
 	[{"key":"AnFuns","name":"AnFuns","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
 	{"key":"Anime1","name":"Anime1","type":3,"api":"./JS/drpy.min.js","ext":"./JS/Anime1.js"},
-	{"key":"AGE动漫","name":"AGE动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AGE动漫.js"},
 	{"key":"NT动漫","name":"NT动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/NT动漫.js"},
 	{"key":"58动漫","name":"58动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/58动漫.js"},
 	{"key":"路漫漫","name":"路漫漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/路漫漫.js"},
