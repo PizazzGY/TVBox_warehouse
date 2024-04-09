@@ -15,5 +15,3 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/ma
 # TVBox系列软件
 
 https://www.123pan.com/s/sPNbVv-aYuXv
-
-![本人抖音](https://github.com/PizazzGY/TVBox_warehouse/assets/78096245/1ede84d8-6d85-41d7-837d-78996b6519cf)
