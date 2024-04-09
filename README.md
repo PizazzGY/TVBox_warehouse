@@ -2,7 +2,7 @@
 
 在线源订阅地址：
 
-https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
+https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
 
 此资源需软件支持多仓
 
