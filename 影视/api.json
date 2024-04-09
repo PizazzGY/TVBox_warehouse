@@ -1,15 +1,15 @@
-{"spider":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;2db1bd07c42c25796659053e9c370577",
+{"spider":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;2db1bd07c42c25796659053e9c370577",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
-	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"三六零弹幕","name":"弹幕一","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"南瓜弹幕","name":"弹幕二","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"酷看弹幕","name":"弹幕三","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"厂长弹幕","name":"弹幕四","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"机器人弹幕","name":"弹幕五","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"白嫖弹幕","name":"弹幕六","type":3,"api":"csp_Cs1369","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"天天弹幕","name":"弹幕七","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"三六零弹幕","name":"弹幕一","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"南瓜弹幕","name":"弹幕二","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"酷看弹幕","name":"弹幕三","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"厂长弹幕","name":"弹幕四","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"机器人弹幕","name":"弹幕五","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"白嫖弹幕","name":"弹幕六","type":3,"api":"csp_Cs1369","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"天天弹幕","name":"弹幕七","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
 	{"key":"南瓜","name":"南瓜","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"天天","name":"天天","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
 	{"key":"热播","name":"热播","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
@@ -101,7 +101,7 @@
 	{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "lives":
-	[{"name":"live","type":0,"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
+	[{"name":"live","type":0,"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
 "flags":
 	["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 "ijk":
