@@ -17,3 +17,7 @@ https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_war
 https://www.123pan.com/s/sPNbVv-aYuXv
 
 # 如果提示接口无效，请在在软件设置里修改DNS。
+
+# 感谢关注
+
+![本人抖音](https://github.com/PizazzGY/TVBox_warehouse/assets/78096245/606c5ee7-5d1d-4bc6-9daf-de56c568f4ed)
