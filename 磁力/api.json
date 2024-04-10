@@ -1,10 +1,10 @@
-{"spider":"https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;2db1bd07c42c25796659053e9c370577",
+{"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;2db1bd07c42c25796659053e9c370577",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"磁力｜首页","type":3,"api":"csp_Douban","searchable":0},
-	{"key":"配置中心","name":"配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"哔嘀弹幕","name":"弹幕｜哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"配置中心","name":"配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"哔嘀弹幕","name":"弹幕｜哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
 	{"key":"不太灵弹幕","name":"弹幕｜不太灵","type":3,"api":"csp_Bt0","searchable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
 	{"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 	{"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
@@ -27,7 +27,7 @@
 	{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "lives":
-	[{"name":"live","type":0,"url":"https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
+	[{"name":"live","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
 "ijk":
 	[{"group":"软解码","options":
 		[{"category":4,"name":"opensles","value":"0"},
