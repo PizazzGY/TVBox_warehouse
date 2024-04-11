@@ -1,4 +1,4 @@
-{"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;b6ab71d680d2ebfd4a9e7f93ef464e48",
+{"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fc213119cc5c6ba5c1b53fb77b9c2144",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"兔小贝","name":"兔小贝","type":3,"api":"./js/drpy.min.js","ext":"./js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
