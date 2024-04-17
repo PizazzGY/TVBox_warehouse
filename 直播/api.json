@@ -2,7 +2,7 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"网络直播","name":"网络直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;664ae622641247e6fe7bf1b9f2767fdc"},
+	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
 	{"key":"斗鱼直播","name":"斗鱼直播","type":3,"api":"./js/drpy.min.js","ext":"./js/斗鱼直播.js"},
 	{"key":"虎牙直播","name":"虎牙直播","type":3,"api":"./js/drpy.min.js","ext":"./js/虎牙直播.js"},
 	{"key":"哔哩直播","name":"哔哩直播","type":3,"api":"./js/drpy.min.js","ext":"./js/哔哩直播.js"},
