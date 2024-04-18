@@ -1,12 +1,12 @@
 {"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
-	[{"key":"企鹅体育","name":"企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/企鹅体育.json"},
-	{"key":"武享吧","name":"武享吧","type":3,"api":"./JS/drpy.min.js","ext":"./JS/武享吧.js"},
-	{"key":"88看球","name":"88看球","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-	{"key":"310直播","name":"310直播","type":3,"api":"./JS/drpy.min.js","ext":"./JS/310直播.js"},
-	{"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"./JS/drpy.min.js","ext":"./JS/JRKAN直播.js"},
-	{"key":"一起看直播","name":"一起看直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQBiu/一起看直播.json"}],
+	[{"key":"企鹅体育","name":"企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"list"},"ext":"./XPath/企鹅体育.json"},
+	{"key":"武享吧","name":"武享吧","type":3,"api":"./JS/drpy.min.js","style":{"type":"list"},"ext":"./JS/武享吧.js"},
+	{"key":"88看球","name":"88看球","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+	{"key":"310直播","name":"310直播","type":3,"api":"./JS/drpy.min.js","style":{"type":"list"},"ext":"./JS/310直播.js"},
+	{"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"./JS/drpy.min.js","style":{"type":"list"},"ext":"./JS/JRKAN直播.js"},
+	{"key":"一起看直播","name":"一起看直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"list"},"ext":"./XYQBiu/一起看直播.json"}],
 "doh":
 	[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 	{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
