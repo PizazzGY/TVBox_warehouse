@@ -12,7 +12,7 @@
 	{"key":"机器人弹幕","name":"机器人弹幕","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
 	{"key":"小苹果弹幕","name":"小苹果弹幕","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
 	{"key":"JOJO弹幕","name":"JOJO弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-	{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0},
+	{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"天天影视","name":"天天影视","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
 	{"key":"热播影视","name":"热播影视","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
 	{"key":"追剧影视","name":"追剧影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
