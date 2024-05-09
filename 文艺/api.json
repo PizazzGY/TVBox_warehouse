@@ -1,8 +1,8 @@
-{"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;ccaf6905bfd665982b4b091282d6c8b1",
+{"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;5af0c33307937551929d536684a26ea4",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"播客","name":"播客","type":3,"api":"./js/drpy.min.js","ext":"./js/播客.js"},
-	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;738408aedbbe61be8d551befbe829d05"},
 	{"key":"DJ音乐","name":"DJ音乐","type":3,"api":"./js/drpy.min.js","ext":"./js/DJ音乐.js"},
 	{"key":"啦啦DJ","name":"啦啦DJ","type":3,"api":"./js/drpy.min.js","ext":"./js/啦啦DJ.js"},
 	{"key":"清风DJ","name":"清风DJ","type":3,"api":"./js/drpy.min.js","ext":"./js/清风DJ.js"},
