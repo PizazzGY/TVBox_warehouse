@@ -1,9 +1,9 @@
-{"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;ccaf6905bfd665982b4b091282d6c8b1",
+{"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;5af0c33307937551929d536684a26ea4",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"企鹅体育","name":"企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"list"},"ext":"./XPath/企鹅体育.json"},
 	{"key":"武享吧","name":"武享吧","type":3,"api":"./JS/drpy.min.js","style":{"type":"list"},"ext":"./JS/武享吧.js"},
-	{"key":"88看球","name":"88看球","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+	{"key":"88看球","name":"88看球","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;738408aedbbe61be8d551befbe829d05"},
 	{"key":"310直播","name":"310直播","type":3,"api":"./JS/drpy.min.js","style":{"type":"list"},"ext":"./JS/310直播.js"},
 	{"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"./JS/drpy.min.js","style":{"type":"list"},"ext":"./JS/JRKAN直播.js"},
 	{"key":"一起看直播","name":"一起看直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"list"},"ext":"./XYQBiu/一起看直播.json"}],
