@@ -1,4 +1,4 @@
-{"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;eb574004570b1a7fd996c8598abb1770",
+{"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;4f18e038054be91a7f8032a4e9a3ee3d",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"播客","name":"播客","type":3,"api":"./js/drpy.min.js","ext":"./js/播客.js"},
