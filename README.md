@@ -12,7 +12,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_wareho
 
 哔哩哔哩登录方式：首页→配置中心→哔哩设置
 
-“本地资源”自定义主页logo（影视App专用）
+“本地资源”自定义主页logo（影视、Easybox）
 位置：根目录/TVBox/logo.png
 
 “本地资源”自定义壁纸
