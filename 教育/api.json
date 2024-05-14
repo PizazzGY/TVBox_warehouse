@@ -6,7 +6,7 @@
             "key": "兔小贝",
             "name": "兔小贝",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
