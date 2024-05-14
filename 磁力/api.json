@@ -105,7 +105,7 @@
             "key": "磁力熊",
             "name": "磁力｜磁力熊",
             "type": 3,
-            "api": "./JS/drpy.min.js",
+            "api": "./JS/drpy2.min.js",
             "ext": "./JS/磁力熊.js"
         },
         {
