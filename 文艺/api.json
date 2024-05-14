@@ -6,7 +6,7 @@
             "key": "播客",
             "name": "播客",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/播客.js"
         },
         {
@@ -26,119 +26,119 @@
             "key": "DJ音乐",
             "name": "DJ音乐",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/DJ音乐.js"
         },
         {
             "key": "啦啦DJ",
             "name": "啦啦DJ",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/啦啦DJ.js"
         },
         {
             "key": "清风DJ",
             "name": "清风DJ",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/清风DJ.js"
         },
         {
             "key": "爱车MV",
             "name": "爱车MV",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/爱车MV.js"
         },
         {
             "key": "酷奇MV",
             "name": "酷奇MV",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/酷奇MV.js"
         },
         {
             "key": "蜻蜓FM",
             "name": "蜻蜓FM",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/蜻蜓FM.js"
         },
         {
             "key": "听书网",
             "name": "听书网",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/听书网.js"
         },
         {
             "key": "博看听书",
             "name": "博看听书",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/博看听书.js"
         },
         {
             "key": "海洋听书",
             "name": "海洋听书",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/海洋听书.js"
         },
         {
             "key": "六月听书",
             "name": "六月听书",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/六月听书.js"
         },
         {
             "key": "喜马拉雅",
             "name": "喜马拉雅",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/喜马拉雅.js"
         },
         {
             "key": "有声绘本网",
             "name": "有声绘本网",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/有声绘本网.js"
         },
         {
             "key": "有声小说吧",
             "name": "有声小说吧",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/有声小说吧.js"
         },
         {
             "key": "爱上你听书网",
             "name": "爱上你听书网",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/爱上你听书网.js"
         },
         {
             "key": "小品网",
             "name": "小品网",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/小品网.js"
         },
         {
             "key": "相声随身听",
             "name": "相声随身听",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/相声随身听.js"
         },
         {
             "key": "评书随身听",
             "name": "评书随身听",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "ext": "./js/评书随身听.js"
         },
         {
