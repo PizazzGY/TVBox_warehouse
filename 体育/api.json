@@ -19,7 +19,7 @@
             "key": "武享吧",
             "name": "武享吧",
             "type": 3,
-            "api": "./JS/drpy.min.js",
+            "api": "./JS/drpy2.min.js",
             "style": {
                 "type": "list"
             },
@@ -42,7 +42,7 @@
             "key": "310直播",
             "name": "310直播",
             "type": 3,
-            "api": "./JS/drpy.min.js",
+            "api": "./JS/drpy2.min.js",
             "style": {
                 "type": "list"
             },
@@ -52,7 +52,7 @@
             "key": "JRKAN直播",
             "name": "JRKAN直播",
             "type": 3,
-            "api": "./JS/drpy.min.js",
+            "api": "./JS/drpy2.min.js",
             "style": {
                 "type": "list"
             },
