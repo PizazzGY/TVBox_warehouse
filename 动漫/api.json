@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c29d7ac6e74960e804f4fb4923ba01f8",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -73,6 +73,14 @@
             "ext": "./JS/喵次元.js"
         },
         {
+            "key": "次元城",
+            "name": "次元城",
+            "type": 3,
+            "api": "csp_Wexciyuancheng",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "喵物次元",
             "name": "喵物次元",
             "type": 3,
@@ -106,6 +114,14 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/怡萱动漫.js"
+        },
+        {
+            "key": "稀饭动漫",
+            "name": "稀饭动漫",
+            "type": 3,
+            "api": "csp_Wexxifan",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "暮暮动漫",
