@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;bed168f684a623828705bc62da3d441c",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;dfa413850c16ddd79d05c62f23cbd35e",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -31,7 +31,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "我的阿里",
@@ -47,7 +47,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "阿里合集",
@@ -64,7 +64,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "玩偶弹幕",
@@ -80,7 +80,7 @@
                 "site": "https://www.wogg.net",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "搜索弹幕",
@@ -94,7 +94,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "云云弹幕",
@@ -108,7 +108,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "云搜弹幕",
@@ -122,7 +122,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "盘搜弹幕",
@@ -136,7 +136,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "易搜弹幕",
@@ -151,7 +151,7 @@
                 "danmu": true,
                 "cookie": "satoken=5f91a828-2198-4630-ac41-da5a217c01d7"
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "云盘弹幕",
@@ -165,7 +165,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "玩偶哥哥",
@@ -311,7 +311,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "夸克土豆弹幕",
@@ -327,7 +327,7 @@
                 "site": "https://tudou.lvdoui.top",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "夸克多多弹幕",
@@ -343,7 +343,7 @@
                 "site": "https://tv.yydsys.top",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "夸克团长弹幕",
@@ -358,7 +358,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "夸克盘搜弹幕",
@@ -372,7 +372,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "夸克影搜弹幕",
@@ -387,7 +387,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "夸克趣盘搜弹幕",
@@ -402,7 +402,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "夸克爱盘搜弹幕",
@@ -417,7 +417,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         },
         {
             "key": "push_agent",
@@ -431,7 +431,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
         }
     ],
     "doh": [
