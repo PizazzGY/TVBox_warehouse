@@ -456,6 +456,13 @@
             "ext": "./JS/爱奇艺.js"
         },
         {
+            "key": "三六零",
+            "name": "三六零",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/三六零.js"
+        },
+        {
             "key": "追剧迷",
             "name": "追剧迷",
             "type": 3,
@@ -512,6 +519,13 @@
             "ext": "./JS/芒果视频.js"
         },
         {
+            "key": "搜狗视频",
+            "name": "搜狗视频",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/搜狗视频.js"
+        },
+        {
             "key": "乐鱼影视",
             "name": "乐鱼影视",
             "type": 3,
@@ -559,16 +573,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/畅梦影视.js"
-        },
-        {
-            "key": "蛋蛋影视",
-            "name": "蛋蛋影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/蛋蛋影视.json"
         },
         {
             "key": "五五影视",
