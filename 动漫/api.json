@@ -116,6 +116,13 @@
             "ext": "./JS/怡萱动漫.js"
         },
         {
+            "key": "花子动漫",
+            "name": "花子动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/花子动漫.js"
+        },
+        {
             "key": "稀饭动漫",
             "name": "稀饭动漫",
             "type": 3,
@@ -132,16 +139,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://www.mutefun.tv"
-        },
-        {
-            "key": "维奇动漫",
-            "name": "维奇动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./XBPQ/维奇动漫.json"
         },
         {
             "key": "动漫巴士",
