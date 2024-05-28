@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;dfa413850c16ddd79d05c62f23cbd35e",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7ddc08e410d76ceb8af9209e828a46f4",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -135,6 +135,27 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/电影港.json"
+        },
+        {
+            "key": "好恐怖",
+            "name": "磁力｜好恐怖",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/好恐怖.json"
+        },
+        {
+            "key": "小白网",
+            "name": "磁力｜小白网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/小白网.json"
         },
         {
             "key": "布谷TV",
