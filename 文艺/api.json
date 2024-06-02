@@ -1,505 +1,505 @@
 {
-	"spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
-	"wallpaper": "https://api.likepoems.com/img/bing",
-	"sites": [
-		{
-			"key": "播客",
-			"name": "播客",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/播客.js"
-		},
-		{
-			"key": "配置中心",
-			"name": "配置中心",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
-		},
-		{
-			"key": "DJ音乐",
-			"name": "DJ音乐",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/DJ音乐.js"
-		},
-		{
-			"key": "啦啦DJ",
-			"name": "啦啦DJ",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/啦啦DJ.js"
-		},
-		{
-			"key": "清风DJ",
-			"name": "清风DJ",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/清风DJ.js"
-		},
-		{
-			"key": "爱车MV",
-			"name": "爱车MV",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/爱车MV.js"
-		},
-		{
-			"key": "酷奇MV",
-			"name": "酷奇MV",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/酷奇MV.js"
-		},
-		{
-			"key": "蜻蜓FM",
-			"name": "蜻蜓FM",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/蜻蜓FM.js"
-		},
-		{
-			"key": "听书网",
-			"name": "听书网",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/听书网.js"
-		},
-		{
-			"key": "博看听书",
-			"name": "博看听书",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/博看听书.js"
-		},
-		{
-			"key": "海洋听书",
-			"name": "海洋听书",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/海洋听书.js"
-		},
-		{
-			"key": "六月听书",
-			"name": "六月听书",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/六月听书.js"
-		},
-		{
-			"key": "喜马拉雅",
-			"name": "喜马拉雅",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/喜马拉雅.js"
-		},
-		{
-			"key": "有声绘本网",
-			"name": "有声绘本网",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/有声绘本网.js"
-		},
-		{
-			"key": "有声小说吧",
-			"name": "有声小说吧",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/有声小说吧.js"
-		},
-		{
-			"key": "爱上你听书网",
-			"name": "爱上你听书网",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/爱上你听书网.js"
-		},
-		{
-			"key": "小品网",
-			"name": "小品网",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/小品网.js"
-		},
-		{
-			"key": "相声随身听",
-			"name": "相声随身听",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/相声随身听.js"
-		},
-		{
-			"key": "评书随身听",
-			"name": "评书随身听",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/评书随身听.js"
-		},
-		{
-			"key": "哔哩哔哩戏曲",
-			"name": "哔哩哔哩戏曲",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./json/哔哩哔哩戏曲.json"
-		},
-		{
-			"key": "push_agent",
-			"name": "推送",
-			"type": 3,
-			"api": "csp_Push",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": {
-				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
-		}
-	],
-	"parses": [
-		{
-			"name": "聚合",
-			"type": 3,
-			"url": "Demo"
-		},
-		{
-			"name": "线路1",
-			"type": 0,
-			"url": "https://jx.xmflv.com/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-				}
-			}
-		},
-		{
-			"name": "线路2",
-			"type": 0,
-			"url": "https://jx.quankan.app/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		},
-		{
-			"name": "线路3",
-			"type": 0,
-			"url": "https://jx.yparse.com/index.php?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		},
-		{
-			"name": "线路4",
-			"type": 0,
-			"url": "https://jx.jsonplayer.com/player/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		},
-		{
-			"name": "线路5",
-			"type": 0,
-			"url": "https://jx.aidouer.net/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-					"referer": "https://jiejie.uk/"
-				}
-			}
-		},
-		{
-			"name": "线路6",
-			"type": 0,
-			"url": "https://jx.777jiexi.com/player/?url="
-		},
-		{
-			"name": "线路7",
-			"type": 0,
-			"url": "https://www.8090g.cn/?url="
-		},
-		{
-			"name": "线路8",
-			"type": 0,
-			"url": "https://jx.yangtu.top?url="
-		},
-		{
-			"name": "线路9",
-			"type": 0,
-			"url": "https://jx.m3u8.tv/jiexi/?url="
-		},
-		{
-			"name": "线路10",
-			"type": 0,
-			"url": "https://www.ckplayer.vip/jiexi/?url="
-		}
-	],
-	"doh": [
-		{
-			"name": "Google",
-			"url": "https://dns.google/dns-query",
-			"ips": [
-				"8.8.4.4",
-				"8.8.8.8"
-			]
-		},
-		{
-			"name": "Cloudflare",
-			"url": "https://cloudflare-dns.com/dns-query",
-			"ips": [
-				"1.1.1.1",
-				"1.0.0.1",
-				"2606:4700:4700::1111",
-				"2606:4700:4700::1001"
-			]
-		},
-		{
-			"name": "AdGuard",
-			"url": "https://dns.adguard.com/dns-query",
-			"ips": [
-				"94.140.14.140",
-				"94.140.14.141"
-			]
-		},
-		{
-			"name": "DNSWatch",
-			"url": "https://resolver2.dns.watch/dns-query",
-			"ips": [
-				"84.200.69.80",
-				"84.200.70.40"
-			]
-		},
-		{
-			"name": "Quad9",
-			"url": "https://dns.quad9.net/dns-quer",
-			"ips": [
-				"9.9.9.9",
-				"149.112.112.112"
-			]
-		}
-	],
-	"lives": [
-		{
-			"name": "live",
-			"type": 0,
-			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
-			"playerType": 1,
-			"epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-		}
-	],
-	"flags": [
-		"youku",
-		"优酷",
-		"优 酷",
-		"优酷视频",
-		"qq",
-		"腾讯",
-		"腾 讯",
-		"腾讯视频",
-		"iqiyi",
-		"qiyi",
-		"奇艺",
-		"爱奇艺",
-		"爱 奇 艺",
-		"m1905",
-		"xigua",
-		"letv",
-		"leshi",
-		"乐视",
-		"乐 视",
-		"sohu",
-		"搜狐",
-		"搜 狐",
-		"搜狐视频",
-		"tudou",
-		"pptv",
-		"mgtv",
-		"芒果",
-		"imgo",
-		"芒果TV",
-		"芒 果 T V",
-		"bilibili",
-		"哔 哩",
-		"哔 哩 哔 哩"
-	],
-	"ijk": [
-		{
-			"group": "软解码",
-			"options": [
-				{
-					"category": 4,
-					"name": "opensles",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "overlay-format",
-					"value": "842225234"
-				},
-				{
-					"category": 4,
-					"name": "framedrop",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "soundtouch",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "start-on-prepared",
-					"value": "1"
-				},
-				{
-					"category": 1,
-					"name": "http-detect-range-support",
-					"value": "0"
-				},
-				{
-					"category": 1,
-					"name": "fflags",
-					"value": "fastseek"
-				},
-				{
-					"category": 2,
-					"name": "skip_loop_filter",
-					"value": "48"
-				},
-				{
-					"category": 4,
-					"name": "reconnect",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "enable-accurate-seek",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-auto-rotate",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-handle-resolution-change",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-hevc",
-					"value": "0"
-				},
-				{
-					"category": 1,
-					"name": "dns_cache_timeout",
-					"value": "600000000"
-				}
-			]
-		},
-		{
-			"group": "硬解码",
-			"options": [
-				{
-					"category": 4,
-					"name": "opensles",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "overlay-format",
-					"value": "842225234"
-				},
-				{
-					"category": 4,
-					"name": "framedrop",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "soundtouch",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "start-on-prepared",
-					"value": "1"
-				},
-				{
-					"category": 1,
-					"name": "http-detect-range-support",
-					"value": "0"
-				},
-				{
-					"category": 1,
-					"name": "fflags",
-					"value": "fastseek"
-				},
-				{
-					"category": 2,
-					"name": "skip_loop_filter",
-					"value": "48"
-				},
-				{
-					"category": 4,
-					"name": "reconnect",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "enable-accurate-seek",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-auto-rotate",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-handle-resolution-change",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-hevc",
-					"value": "1"
-				},
-				{
-					"category": 1,
-					"name": "dns_cache_timeout",
-					"value": "600000000"
-				}
-			]
-		}
-	],
-	"ads": [
-		"static-mozai.4gtv.tv"
-	]
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;09e7be0d15ddcaf1167b20c7fe96d886",
+    "wallpaper": "https://api.likepoems.com/img/bing",
+    "sites": [
+        {
+            "key": "播客",
+            "name": "播客",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/播客.js"
+        },
+        {
+            "key": "配置中心",
+            "name": "配置中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+        },
+        {
+            "key": "DJ音乐",
+            "name": "DJ音乐",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/DJ音乐.js"
+        },
+        {
+            "key": "啦啦DJ",
+            "name": "啦啦DJ",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/啦啦DJ.js"
+        },
+        {
+            "key": "清风DJ",
+            "name": "清风DJ",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/清风DJ.js"
+        },
+        {
+            "key": "爱车MV",
+            "name": "爱车MV",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/爱车MV.js"
+        },
+        {
+            "key": "酷奇MV",
+            "name": "酷奇MV",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/酷奇MV.js"
+        },
+        {
+            "key": "蜻蜓FM",
+            "name": "蜻蜓FM",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/蜻蜓FM.js"
+        },
+        {
+            "key": "听书网",
+            "name": "听书网",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/听书网.js"
+        },
+        {
+            "key": "博看听书",
+            "name": "博看听书",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/博看听书.js"
+        },
+        {
+            "key": "海洋听书",
+            "name": "海洋听书",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/海洋听书.js"
+        },
+        {
+            "key": "六月听书",
+            "name": "六月听书",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/六月听书.js"
+        },
+        {
+            "key": "喜马拉雅",
+            "name": "喜马拉雅",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/喜马拉雅.js"
+        },
+        {
+            "key": "有声绘本网",
+            "name": "有声绘本网",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/有声绘本网.js"
+        },
+        {
+            "key": "有声小说吧",
+            "name": "有声小说吧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/有声小说吧.js"
+        },
+        {
+            "key": "爱上你听书网",
+            "name": "爱上你听书网",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/爱上你听书网.js"
+        },
+        {
+            "key": "小品网",
+            "name": "小品网",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/小品网.js"
+        },
+        {
+            "key": "相声随身听",
+            "name": "相声随身听",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/相声随身听.js"
+        },
+        {
+            "key": "评书随身听",
+            "name": "评书随身听",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/评书随身听.js"
+        },
+        {
+            "key": "哔哩哔哩戏曲",
+            "name": "哔哩哔哩戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/哔哩哔哩戏曲.json"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+        }
+    ],
+    "parses": [
+        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "线路1",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "线路2",
+            "type": 0,
+            "url": "https://jx.quankan.app/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "线路3",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "线路4",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "线路5",
+            "type": 0,
+            "url": "https://jx.aidouer.net/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                    "referer": "https://jiejie.uk/"
+                }
+            }
+        },
+        {
+            "name": "线路6",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name": "线路7",
+            "type": 0,
+            "url": "https://www.8090g.cn/?url="
+        },
+        {
+            "name": "线路8",
+            "type": 0,
+            "url": "https://jx.yangtu.top?url="
+        },
+        {
+            "name": "线路9",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "线路10",
+            "type": 0,
+            "url": "https://www.ckplayer.vip/jiexi/?url="
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        }
+    ],
+    "flags": [
+        "youku",
+        "优酷",
+        "优 酷",
+        "优酷视频",
+        "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
+        "iqiyi",
+        "qiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "m1905",
+        "xigua",
+        "letv",
+        "leshi",
+        "乐视",
+        "乐 视",
+        "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "芒 果 T V",
+        "bilibili",
+        "哔 哩",
+        "哔 哩 哔 哩"
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "static-mozai.4gtv.tv"
+    ]
 }
