@@ -1,485 +1,485 @@
 {
-	"spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;37964c765c8774d5e94ff58e87b929bd",
-	"wallpaper": "https://api.likepoems.com/img/bing",
-	"sites": [
-		{
-			"key": "豆瓣",
-			"name": "磁力｜首页",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0
-		},
-		{
-			"key": "配置中心",
-			"name": "配置｜中心",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-		},
-		{
-			"key": "荐片弹幕",
-			"name": "弹幕｜荐片",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-		},
-		{
-			"key": "哔嘀弹幕",
-			"name": "弹幕｜哔嘀",
-			"type": 3,
-			"api": "csp_Bdys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-		},
-		{
-			"key": "不太灵弹幕",
-			"name": "弹幕｜不太灵",
-			"type": 3,
-			"api": "csp_Bt0",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"jar": "https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-		},
-		{
-			"key": "荐片",
-			"name": "磁力｜荐片",
-			"type": 3,
-			"api": "csp_JianPian",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://api2.rinhome.com"
-		},
-		{
-			"key": "New6v",
-			"name": "磁力｜New6V",
-			"type": 3,
-			"api": "csp_New6v",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.xb6v.com"
-		},
-		{
-			"key": "SeedHub",
-			"name": "磁力｜SeedHub",
-			"type": 3,
-			"api": "csp_SeedHub",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "音范丝",
-			"name": "磁力｜音范丝",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "./XPath/音范丝.json"
-		},
-		{
-			"key": "磁力熊",
-			"name": "磁力｜磁力熊",
-			"type": 3,
-			"api": "./JS/drpy2.min.js",
-			"ext": "./JS/磁力熊.js"
-		},
-		{
-			"key": "美剧迷",
-			"name": "磁力｜美剧迷",
-			"type": 3,
-			"api": "csp_MeijuMi",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "迅雷吧",
-			"name": "磁力｜迅雷吧",
-			"type": 3,
-			"api": "csp_Xunlei8",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "电影港",
-			"name": "磁力｜电影港",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQHiker/电影港.json"
-		},
-		{
-			"key": "好恐怖",
-			"name": "磁力｜好恐怖",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/好恐怖.json"
-		},
-		{
-			"key": "小白网",
-			"name": "磁力｜小白网",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/小白网.json"
-		},
-		{
-			"key": "布谷TV",
-			"name": "磁力｜布谷TV",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/布谷TV.json"
-		},
-		{
-			"key": "BT天堂",
-			"name": "磁力｜BT天堂",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQHiker/BT天堂.json"
-		},
-		{
-			"key": "Mp4电影",
-			"name": "磁力｜Mp4电影",
-			"type": 3,
-			"api": "csp_Mp4Mov",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "高清MP4",
-			"name": "磁力｜高清MP4",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQHiker/高清MP4.json"
-		},
-		{
-			"key": "哔嘀影视",
-			"name": "磁力｜哔嘀影视",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQHiker/哔嘀影视.json"
-		},
-		{
-			"key": "酷吧电影",
-			"name": "磁力｜酷吧电影",
-			"type": 3,
-			"api": "csp_KubaCL",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "美剧天堂",
-			"name": "磁力｜美剧天堂",
-			"type": 3,
-			"api": "csp_MeijuTT",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "push_agent",
-			"name": "推送",
-			"type": 3,
-			"api": "csp_Push",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": {
-				"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
-			},
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-		}
-	],
-	"rules": [
-		{
-			"name": "磁力广告",
-			"hosts": [
-				"magnet"
-			],
-			"regex": [
-				"更多",
-				"请访问",
-				"example",
-				"社 區",
-				"x u u",
-				"直 播",
-				"更 新",
-				"社 区",
-				"有趣",
-				"有 趣",
-				"英皇体育",
-				"全中文AV在线",
-				"澳门皇冠赌场",
-				"哥哥快来",
-				"美女荷官",
-				"裸聊",
-				"新片首发",
-				"UUE29"
-			]
-		}
-	],
-	"doh": [
-		{
-			"name": "Google",
-			"url": "https://dns.google/dns-query",
-			"ips": [
-				"8.8.4.4",
-				"8.8.8.8"
-			]
-		},
-		{
-			"name": "Cloudflare",
-			"url": "https://cloudflare-dns.com/dns-query",
-			"ips": [
-				"1.1.1.1",
-				"1.0.0.1",
-				"2606:4700:4700::1111",
-				"2606:4700:4700::1001"
-			]
-		},
-		{
-			"name": "AdGuard",
-			"url": "https://dns.adguard.com/dns-query",
-			"ips": [
-				"94.140.14.140",
-				"94.140.14.141"
-			]
-		},
-		{
-			"name": "DNSWatch",
-			"url": "https://resolver2.dns.watch/dns-query",
-			"ips": [
-				"84.200.69.80",
-				"84.200.70.40"
-			]
-		},
-		{
-			"name": "Quad9",
-			"url": "https://dns.quad9.net/dns-quer",
-			"ips": [
-				"9.9.9.9",
-				"149.112.112.112"
-			]
-		}
-	],
-	"lives": [
-		{
-			"name": "live",
-			"type": 0,
-			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
-			"playerType": 1,
-			"epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-		}
-	],
-	"ijk": [
-		{
-			"group": "软解码",
-			"options": [
-				{
-					"category": 4,
-					"name": "opensles",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "overlay-format",
-					"value": "842225234"
-				},
-				{
-					"category": 4,
-					"name": "framedrop",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "soundtouch",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "start-on-prepared",
-					"value": "1"
-				},
-				{
-					"category": 1,
-					"name": "http-detect-range-support",
-					"value": "0"
-				},
-				{
-					"category": 1,
-					"name": "fflags",
-					"value": "fastseek"
-				},
-				{
-					"category": 2,
-					"name": "skip_loop_filter",
-					"value": "48"
-				},
-				{
-					"category": 4,
-					"name": "reconnect",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "enable-accurate-seek",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-auto-rotate",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-handle-resolution-change",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-hevc",
-					"value": "0"
-				},
-				{
-					"category": 1,
-					"name": "dns_cache_timeout",
-					"value": "600000000"
-				}
-			]
-		},
-		{
-			"group": "硬解码",
-			"options": [
-				{
-					"category": 4,
-					"name": "opensles",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "overlay-format",
-					"value": "842225234"
-				},
-				{
-					"category": 4,
-					"name": "framedrop",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "soundtouch",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "start-on-prepared",
-					"value": "1"
-				},
-				{
-					"category": 1,
-					"name": "http-detect-range-support",
-					"value": "0"
-				},
-				{
-					"category": 1,
-					"name": "fflags",
-					"value": "fastseek"
-				},
-				{
-					"category": 2,
-					"name": "skip_loop_filter",
-					"value": "48"
-				},
-				{
-					"category": 4,
-					"name": "reconnect",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "enable-accurate-seek",
-					"value": "0"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-auto-rotate",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-handle-resolution-change",
-					"value": "1"
-				},
-				{
-					"category": 4,
-					"name": "mediacodec-hevc",
-					"value": "1"
-				},
-				{
-					"category": 1,
-					"name": "dns_cache_timeout",
-					"value": "600000000"
-				}
-			]
-		}
-	]
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;09e7be0d15ddcaf1167b20c7fe96d886",
+    "wallpaper": "https://api.likepoems.com/img/bing",
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "磁力｜首页",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
+            "key": "配置中心",
+            "name": "配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+        },
+        {
+            "key": "荐片弹幕",
+            "name": "弹幕｜荐片",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+        },
+        {
+            "key": "哔嘀弹幕",
+            "name": "弹幕｜哔嘀",
+            "type": 3,
+            "api": "csp_Bdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+        },
+        {
+            "key": "不太灵弹幕",
+            "name": "弹幕｜不太灵",
+            "type": 3,
+            "api": "csp_Bt0",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+        },
+        {
+            "key": "荐片",
+            "name": "磁力｜荐片",
+            "type": 3,
+            "api": "csp_JianPian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://api2.rinhome.com"
+        },
+        {
+            "key": "New6v",
+            "name": "磁力｜New6V",
+            "type": 3,
+            "api": "csp_New6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xb6v.com"
+        },
+        {
+            "key": "SeedHub",
+            "name": "磁力｜SeedHub",
+            "type": 3,
+            "api": "csp_SeedHub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "音范丝",
+            "name": "磁力｜音范丝",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "./XPath/音范丝.json"
+        },
+        {
+            "key": "磁力熊",
+            "name": "磁力｜磁力熊",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/磁力熊.js"
+        },
+        {
+            "key": "美剧迷",
+            "name": "磁力｜美剧迷",
+            "type": 3,
+            "api": "csp_MeijuMi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "迅雷吧",
+            "name": "磁力｜迅雷吧",
+            "type": 3,
+            "api": "csp_Xunlei8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "电影港",
+            "name": "磁力｜电影港",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/电影港.json"
+        },
+        {
+            "key": "好恐怖",
+            "name": "磁力｜好恐怖",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/好恐怖.json"
+        },
+        {
+            "key": "小白网",
+            "name": "磁力｜小白网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/小白网.json"
+        },
+        {
+            "key": "布谷TV",
+            "name": "磁力｜布谷TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/布谷TV.json"
+        },
+        {
+            "key": "BT天堂",
+            "name": "磁力｜BT天堂",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/BT天堂.json"
+        },
+        {
+            "key": "Mp4电影",
+            "name": "磁力｜Mp4电影",
+            "type": 3,
+            "api": "csp_Mp4Mov",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "高清MP4",
+            "name": "磁力｜高清MP4",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/高清MP4.json"
+        },
+        {
+            "key": "哔嘀影视",
+            "name": "磁力｜哔嘀影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/哔嘀影视.json"
+        },
+        {
+            "key": "酷吧电影",
+            "name": "磁力｜酷吧电影",
+            "type": 3,
+            "api": "csp_KubaCL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "美剧天堂",
+            "name": "磁力｜美剧天堂",
+            "type": 3,
+            "api": "csp_MeijuTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+        }
+    ],
+    "rules": [
+        {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "请访问",
+                "example",
+                "社 區",
+                "x u u",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有趣",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29"
+            ]
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        }
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ]
 }
