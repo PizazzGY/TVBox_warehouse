@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;37964c765c8774d5e94ff58e87b929bd",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -20,7 +20,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
         },
         {
             "key": "DJ音乐",
@@ -163,7 +163,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
         }
     ],
     "parses": [
