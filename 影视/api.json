@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;09e7be0d15ddcaf1167b20c7fe96d886",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -20,7 +20,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "南瓜弹幕",
@@ -33,7 +33,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "酷看弹幕",
@@ -46,7 +46,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "厂长弹幕",
@@ -59,7 +59,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "天天弹幕",
@@ -72,7 +72,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "三六零弹幕",
@@ -85,7 +85,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "机器人弹幕",
@@ -98,7 +98,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "小苹果弹幕",
@@ -111,7 +111,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "一起看弹幕",
@@ -124,7 +124,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "JOJO弹幕",
@@ -137,7 +137,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "韩小圈",
@@ -147,7 +147,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "无忧短剧",
@@ -156,16 +156,7 @@
             "api": "csp_Duanj",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-        },
-        {
-            "key": "上头短剧",
-            "name": "上头短剧",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
             "key": "南瓜影视",
@@ -230,6 +221,81 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "苹果影视",
+            "name": "苹果影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "胖虎影视",
+            "name": "胖虎影视",
+            "type": 3,
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://physvod.com"
+        },
+        {
+            "key": "剧圈影视",
+            "name": "剧圈影视",
+            "type": 3,
+            "api": "csp_Juqq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "忍者影视",
+            "name": "忍者影视",
+            "type": 3,
+            "api": "csp_AppRZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://rzys.xyz/"
+        },
+        {
+            "key": "毛驴影视",
+            "name": "毛驴影视",
+            "type": 3,
+            "api": "csp_MaoLv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "可可影视",
+            "name": "可可影视",
+            "type": 3,
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "圣城影视",
+            "name": "圣城影视",
+            "type": 3,
+            "api": "csp_SC1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Voflix",
+            "name": "Voflix",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://voflix.fun/"
         },
         {
             "key": "兄弟影视",
@@ -336,22 +402,84 @@
             "changeable": 1
         },
         {
-            "key": "耐看影视",
-            "name": "耐看影视",
+            "key": "骚火影视",
+            "name": "骚火影视",
             "type": 3,
-            "api": "csp_AppNK",
+            "api": "csp_Wexsaohuo",
             "searchable": 1,
-            "changeable": 1,
-            "ext": "wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w=="
+            "changeable": 1
         },
         {
-            "key": "圣城影视",
-            "name": "圣城影视",
+            "key": "在线之家",
+            "name": "在线之家",
             "type": 3,
-            "api": "csp_AppNK",
+            "api": "csp_Wexzxzj",
             "searchable": 1,
-            "changeable": 1,
-            "ext": "mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
+            "changeable": 1
+        },
+        {
+            "key": "愉悦影视",
+            "name": "愉悦影视",
+            "type": 3,
+            "api": "csp_Wexyuyueys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "花蕊影视",
+            "name": "花蕊影视",
+            "type": 3,
+            "api": "csp_Wexhuaruitv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "甲子影视",
+            "name": "甲子影视",
+            "type": 3,
+            "api": "csp_Wexjiazitv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "秒播短剧",
+            "name": "秒播短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "仙品短剧",
+            "name": "仙品短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuhema",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "极品短剧",
+            "name": "极品短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvmp",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "精品短剧",
+            "name": "精品短剧",
+            "type": 3,
+            "api": "csp_Wexvipduanju",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "良品短剧",
+            "name": "良品短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvip",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "看看影视",
@@ -539,13 +667,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/大米星球.js"
-        },
-        {
-            "key": "在线之家",
-            "name": "在线之家",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/在线之家.js"
         },
         {
             "key": "欧帝影院",
@@ -899,7 +1020,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         }
     ],
     "parses": [

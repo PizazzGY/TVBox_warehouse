@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;09e7be0d15ddcaf1167b20c7fe96d886",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -76,9 +76,8 @@
             "key": "次元城",
             "name": "次元城",
             "type": 3,
-            "api": "csp_Wexciyuancheng",
-            "searchable": 1,
-            "changeable": 1
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/次元城.js"
         },
         {
             "key": "喵物次元",
@@ -123,12 +122,25 @@
             "ext": "./JS/花子动漫.js"
         },
         {
-            "key": "稀饭动漫",
-            "name": "稀饭动漫",
+            "key": "驴番动漫",
+            "name": "驴番动漫",
             "type": 3,
-            "api": "csp_Wexxifan",
-            "searchable": 1,
-            "changeable": 1
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/驴番动漫.js"
+        },
+        {
+            "key": "动漫巴士",
+            "name": "动漫巴士",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/动漫巴士.js"
+        },
+        {
+            "key": "樱花动漫",
+            "name": "樱花动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/樱花动漫.js"
         },
         {
             "key": "暮暮动漫",
@@ -139,23 +151,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://www.mutean.com"
-        },
-        {
-            "key": "动漫巴士",
-            "name": "动漫巴士",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./XBPQ/动漫巴士.json"
-        },
-        {
-            "key": "樱花动漫",
-            "name": "樱花动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
         },
         {
             "key": "push_agent",
@@ -169,7 +164,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         }
     ],
     "parses": [
