@@ -20,7 +20,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;de83f4303aa1a64a6f0e2aee8bdc7d41"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;5f6157c764202f28968131b805419431"
         },
         {
             "key": "荐片弹幕",
@@ -34,7 +34,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;de83f4303aa1a64a6f0e2aee8bdc7d41"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;5f6157c764202f28968131b805419431"
         },
         {
             "key": "哔嘀弹幕",
@@ -47,7 +47,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;de83f4303aa1a64a6f0e2aee8bdc7d41"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;5f6157c764202f28968131b805419431"
         },
         {
             "key": "不太灵弹幕",
@@ -59,7 +59,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;de83f4303aa1a64a6f0e2aee8bdc7d41"
+            "jar": "https://ghproxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;5f6157c764202f28968131b805419431"
         },
         {
             "key": "荐片",
@@ -236,7 +236,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;de83f4303aa1a64a6f0e2aee8bdc7d41"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;5f6157c764202f28968131b805419431"
         }
     ],
     "rules": [
