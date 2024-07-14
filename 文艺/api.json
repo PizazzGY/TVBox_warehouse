@@ -214,6 +214,31 @@
             "status_text": "正常"
         },
         {
+            "name": "推荐6",
+            "url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "xiguatv",
+                    "mytv",
+                    "dsj",
+                    "FYNB",
+                    "NBY",
+                    "BTJSON"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
+        },
+        {
             "name": "线路1",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
