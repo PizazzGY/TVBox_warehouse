@@ -24,7 +24,7 @@
         },
         {
             "key": "南瓜弹幕",
-            "name": "南瓜弹幕",
+            "name": "南瓜｜快",
             "type": 3,
             "api": "csp_Nangua",
             "searchable": 1,
@@ -37,7 +37,7 @@
         },
         {
             "key": "酷看弹幕",
-            "name": "酷看弹幕",
+            "name": "酷看｜快",
             "type": 3,
             "api": "csp_Kkys",
             "searchable": 1,
@@ -50,7 +50,7 @@
         },
         {
             "key": "厂长弹幕",
-            "name": "厂长弹幕",
+            "name": "厂长｜慢",
             "type": 3,
             "api": "csp_Czzy",
             "searchable": 1,
@@ -63,7 +63,7 @@
         },
         {
             "key": "天天弹幕",
-            "name": "天天弹幕",
+            "name": "天天｜快",
             "type": 3,
             "api": "csp_TianTian",
             "searchable": 1,
@@ -76,7 +76,7 @@
         },
         {
             "key": "三六零弹幕",
-            "name": "三六零弹幕",
+            "name": "三六零｜快",
             "type": 3,
             "api": "csp_Sp360",
             "searchable": 1,
@@ -89,7 +89,7 @@
         },
         {
             "key": "机器人弹幕",
-            "name": "机器人弹幕",
+            "name": "机器人｜慢",
             "type": 3,
             "api": "csp_Ikanbot",
             "searchable": 1,
@@ -127,19 +127,6 @@
             "jar": "https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
         },
         {
-            "key": "JOJO弹幕",
-            "name": "JOJO弹幕",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
-        },
-        {
             "key": "韩小圈",
             "name": "韩小圈",
             "type": 3,
@@ -149,15 +136,7 @@
             "filterable": 1,
             "jar": "https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
         },
-        {
-            "key": "无忧短剧",
-            "name": "无忧短剧",
-            "type": 3,
-            "api": "csp_Duanj",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
-        },
+
         {
             "key": "采集之王",
             "name": "采集之王",
@@ -478,22 +457,6 @@
             "name": "花蕊影视",
             "type": 3,
             "api": "csp_Wexhuaruitv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "精品短剧",
-            "name": "精品短剧",
-            "type": 3,
-            "api": "csp_Wexvipduanju",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "良品短剧",
-            "name": "良品短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvip",
             "searchable": 1,
             "changeable": 1
         },
@@ -1046,21 +1009,6 @@
                 "日韩综艺",
                 "欧美综艺"
             ]
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
-            },
-            "jar": "https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
         }
     ],
     "parses": [
