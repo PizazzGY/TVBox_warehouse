@@ -18,6 +18,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
+            "indexs": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1.597
