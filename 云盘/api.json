@@ -202,6 +202,23 @@
             "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"
         },
         {
+            "key": "夸克至臻弹幕",
+            "name": "弹幕｜至臻",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://mihdr.top",
+                "danmu": true
+            },
+            "jar": "https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
+        },
+        {
             "key": "夸克团长弹幕",
             "name": "弹幕｜团长",
             "type": 3,
