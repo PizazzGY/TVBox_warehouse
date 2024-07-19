@@ -22,7 +22,7 @@ https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/m
 
 # TVBox系列软件
 
-https://www.123pan.com/s/sPNbVv-aYuXv
+https://www.123pan.com/s/sPNbVv-67SXv
 
 # 抖音：1945846073   感谢关注
 
