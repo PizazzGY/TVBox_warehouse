@@ -116,22 +116,6 @@
             "jar": "https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
         },
         {
-            "key": "六趣弹幕",
-            "name": "弹幕｜六趣",
-            "type": 3,
-            "api": "csp_Wogg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://cms.715d.com",
-                "danmu": true
-            },
-            "jar": "https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
-        },
-        {
             "key": "夸克玩偶弹幕",
             "name": "弹幕｜玩偶",
             "type": 3,
@@ -290,7 +274,7 @@
         },
         {
             "key": "多多影音",
-            "name": "云盘｜多多",
+            "name": "云盘｜多多｜快",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -310,7 +294,7 @@
         },
         {
             "key": "云盘搜索",
-            "name": "云盘｜搜索",
+            "name": "云盘｜搜索|快",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -370,7 +354,7 @@
         },
         {
             "key": "云盘论坛",
-            "name": "云盘｜论坛",
+            "name": "云盘｜论坛｜快",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -380,7 +364,7 @@
         },
         {
             "key": "云盘资源",
-            "name": "云盘｜资源",
+            "name": "云盘｜资源｜快",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -390,7 +374,7 @@
         },
         {
             "key": "我的小站",
-            "name": "云盘｜小站",
+            "name": "云盘｜小站｜快",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
