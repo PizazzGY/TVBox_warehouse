@@ -431,8 +431,8 @@
             "changeable": 1
         },
         {
-            "key": "利播影视",
-            "name": "利播影视",
+            "key": "立播影视",
+            "name": "立播影视",
             "type": 3,
             "api": "csp_Wexlibhd",
             "searchable": 1,
