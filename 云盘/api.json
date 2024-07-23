@@ -196,6 +196,22 @@
             }
         },
         {
+            "key": "夸克奥秘弹幕",
+            "name": "弹幕｜奥秘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://vip.omii.top",
+                "danmu": true
+            }
+        },
+        {
             "key": "夸克团长弹幕",
             "name": "弹幕｜团长",
             "type": 3,
