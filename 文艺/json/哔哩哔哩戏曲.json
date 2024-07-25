@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "潮剧",
             "type_id": "潮剧"
@@ -198,7 +197,7 @@
             "type_id": "高腔"
         }
     ],
-    "filter": {
+    "filters": {
         "搞笑": [
             {
                 "key": "duration",
