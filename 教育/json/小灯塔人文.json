@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "安全教育课",
             "type_id": "给孩子的第一堂性教育课"
@@ -234,7 +233,7 @@
             "type_id": "小灯塔了不起的新科技"
         }
     ],
-    "filter": {
+    "filters": {
         "10天玩转世界top10博物馆": [
             {
                 "key": "tid",

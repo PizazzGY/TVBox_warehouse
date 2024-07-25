@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "英语",
             "type_id": "英语学习"
@@ -38,7 +37,7 @@
             "type_id": "意大利语"
         }
     ],
-    "filter": {
+    "filters": {
         "英语学习": [
             {
                 "key": "order",

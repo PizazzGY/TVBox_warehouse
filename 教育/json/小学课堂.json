@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "1年级语文",
             "type_id": "1年级语文"
@@ -74,7 +73,7 @@
             "type_id": "6年级英语"
         }
     ],
-    "filter": {
+    "filters": {
         "1年级语文": [
             {
                 "key": "tid",

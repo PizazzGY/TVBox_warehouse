@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "剑术",
             "type_id": "剑术一段《中国武术段位制教程剑术》"

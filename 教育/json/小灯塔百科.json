@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "百科",
             "type_id": "10天玩转世界top10博物馆"
@@ -234,7 +233,7 @@
             "type_id": "小灯塔讲给孩子的希腊神话故事"
         }
     ],
-    "filter": {
+    "filters": {
         "10天玩转世界top10博物馆": [
             {
                 "key": "tid",

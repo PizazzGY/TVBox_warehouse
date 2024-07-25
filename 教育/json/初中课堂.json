@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "7年级语文",
             "type_id": "7年级语文"
@@ -98,7 +97,7 @@
             "type_id": "9年级化学"
         }
     ],
-    "filter": {
+    "filters": {
         "7年级语文": [
             {
                 "key": "tid",

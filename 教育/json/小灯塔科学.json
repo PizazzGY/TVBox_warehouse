@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "科学",
             "type_id": "小灯塔.剑桥数学启蒙课（全）"
@@ -234,7 +233,7 @@
             "type_id": "【小灯塔】中华上下五千年"
         }
     ],
-    "filter": {
+    "filters": {
         "10天玩转世界top10博物馆": [
             {
                 "key": "tid",

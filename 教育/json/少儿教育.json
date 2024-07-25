@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "儿童早教",
             "type_id": "儿童早教"
@@ -58,7 +57,7 @@
             "type_id": "学而思"
         }
     ],
-    "filter": {
+    "filters": {
         "儿童早教": [
             {
                 "key": "duration",

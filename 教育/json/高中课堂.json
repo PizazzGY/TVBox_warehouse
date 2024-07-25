@@ -1,6 +1,5 @@
 {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-    "classes": [
+    "class": [
         {
             "type_name": "高一语文",
             "type_id": "高一语文"
@@ -114,7 +113,7 @@
             "type_id": "高中信息技术"
         }
     ],
-    "filter": {
+    "filters": {
         "高一语文": [
             {
                 "key": "tid",
