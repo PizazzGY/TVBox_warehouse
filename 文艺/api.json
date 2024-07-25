@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -20,8 +20,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7"
+            }
         },
         {
             "key": "DJ音乐",
@@ -150,7 +149,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/哔哩哔哩戏曲.json"
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+                "json": "./json/哔哩哔哩戏曲.json"
+            }
         },
         {
             "key": "push_agent",
