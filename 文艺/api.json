@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7",
+    "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -167,7 +167,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
             },
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7"
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7"
         }
     ],
     "parses": [
@@ -294,7 +294,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
