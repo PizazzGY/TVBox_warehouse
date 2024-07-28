@@ -46,6 +46,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "site": "https://www.yjys01.com",
                 "danmu": true
             },
             "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7"
