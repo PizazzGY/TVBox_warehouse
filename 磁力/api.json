@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -21,7 +21,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         },
         {
             "key": "荐片弹幕",
@@ -35,7 +35,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         },
         {
             "key": "哔嘀弹幕",
@@ -49,7 +49,7 @@
                 "site": "https://www.yjys01.com",
                 "danmu": true
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         },
         {
             "key": "不太灵弹幕",
@@ -61,7 +61,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         },
         {
             "key": "荐片",
@@ -240,7 +240,7 @@
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "danmu": true
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         }
     ],
     "rules": [
@@ -319,7 +319,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
