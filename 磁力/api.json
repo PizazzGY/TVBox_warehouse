@@ -21,7 +21,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;00c4927f9edc3f6c4a29351733edc9ad"
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         },
         {
             "key": "荐片弹幕",
@@ -35,7 +35,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;00c4927f9edc3f6c4a29351733edc9ad"
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         },
         {
             "key": "哔嘀弹幕",
@@ -49,7 +49,7 @@
                 "site": "https://www.yjys01.com",
                 "danmu": true
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;00c4927f9edc3f6c4a29351733edc9ad"
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         },
         {
             "key": "不太灵弹幕",
@@ -61,7 +61,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;00c4927f9edc3f6c4a29351733edc9ad"
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         },
         {
             "key": "荐片",
@@ -237,9 +237,10 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "danmu": true
             },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;00c4927f9edc3f6c4a29351733edc9ad"
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
         }
     ],
     "rules": [
