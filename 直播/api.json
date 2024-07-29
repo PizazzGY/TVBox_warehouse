@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+    "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -9,7 +9,8 @@
             "api": "csp_Yj1211",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6"
         },
         {
             "key": "配置中心",
@@ -22,8 +23,24 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
+            }
+        },
+        {
+            "key": "网红直播",
+            "name": "网红直播",
+            "type": 3,
+            "api": "csp_JustLive",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "快手直播",
+            "name": "快手直播",
+            "type": 3,
+            "api": "csp_KsLive",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
         },
         {
             "key": "斗鱼直播",
@@ -69,8 +86,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "danmu": true
-            },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
+            }
         }
     ],
     "doh": [
