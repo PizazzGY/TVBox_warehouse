@@ -152,7 +152,7 @@
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "danmu": true
             },
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b"
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;./danmu.jar;md5;ed6d20f8cf64d14f1efc46caa3c0f474"
         }
     ],
     "parses": [
