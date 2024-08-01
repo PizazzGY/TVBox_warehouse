@@ -6,6 +6,8 @@ https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main
 
 https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
 
+https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
+
 此资源需软件支持多仓
 
 “哔哩哔哩”资源需要扫码登录哔哩账号获取cookie才能观看。
