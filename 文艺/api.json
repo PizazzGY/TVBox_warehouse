@@ -93,6 +93,32 @@
             "ext": "./js/评书随身听.js"
         },
         {
+            "key": "哔哩哔哩相声",
+            "name": "相声｜哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+                "json": "./json/哔哩哔哩相声.json"
+            }
+        },
+        {
+            "key": "哔哩哔哩小品",
+            "name": "小品｜哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+                "json": "./json/哔哩哔哩小品.json"
+            }
+        },
+        {
             "key": "哔哩哔哩戏曲",
             "name": "戏曲｜哔哩",
             "type": 3,
