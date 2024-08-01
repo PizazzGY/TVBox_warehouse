@@ -46,6 +46,16 @@
             "ext": "./JS/310直播.js"
         },
         {
+            "key": "360吧",
+            "name": "360｜直播",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "style": {
+                "type": "list"
+            },
+            "ext": "./JS/360吧.js"
+        },
+        {
             "key": "JRKAN直播",
             "name": "JRKAN｜直播",
             "type": 3,
