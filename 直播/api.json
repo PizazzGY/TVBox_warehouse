@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "网络直播",
-            "name": "网络直播",
+            "name": "网络｜直播",
             "type": 3,
             "api": "csp_Yj1211",
             "searchable": 1,
@@ -14,7 +14,7 @@
         },
         {
             "key": "配置中心",
-            "name": "配置中心",
+            "name": "配置｜中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -27,7 +27,7 @@
         },
         {
             "key": "网红直播",
-            "name": "网红直播",
+            "name": "网红｜直播",
             "type": 3,
             "api": "csp_JustLive",
             "searchable": 1,
@@ -35,7 +35,7 @@
         },
         {
             "key": "快手直播",
-            "name": "快手直播",
+            "name": "快手｜直播",
             "type": 3,
             "api": "csp_KsLive",
             "searchable": 0,
@@ -44,38 +44,39 @@
         },
         {
             "key": "斗鱼直播",
-            "name": "斗鱼直播",
+            "name": "斗鱼｜直播",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/斗鱼直播.js"
         },
         {
             "key": "虎牙直播",
-            "name": "虎牙直播",
+            "name": "虎牙｜直播",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/虎牙直播.js"
         },
         {
             "key": "哔哩直播",
-            "name": "哔哩直播",
+            "name": "哔哩｜直播",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/哔哩直播.js"
         },
         {
             "key": "网易CC",
-            "name": "网易CC",
+            "name": "网易｜直播",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/网易CC.json"
+            "ext": "./json/网易CC.json",
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6"
         },
         {
             "key": "push_agent",
-            "name": "推送",
+            "name": "手机｜推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
