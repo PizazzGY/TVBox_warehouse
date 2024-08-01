@@ -72,18 +72,18 @@
             "ext": "./js/六月听书.js"
         },
         {
-            "key": "有声绘本网",
-            "name": "有声绘本｜听书",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/有声绘本网.js"
-        },
-        {
             "key": "爱上你听书网",
             "name": "爱上你｜听书",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱上你听书网.js"
+        },
+        {
+            "key": "有声绘本网",
+            "name": "有声绘本｜听书",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/有声绘本网.js"
         },
         {
             "key": "评书随身听",
