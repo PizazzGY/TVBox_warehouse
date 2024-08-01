@@ -23,11 +23,11 @@
             }
         },
         {
-            "key": "DJ音乐",
-            "name": "DJ｜音乐",
+            "key": "呦呦DJ",
+            "name": "呦呦｜DJ",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/DJ音乐.js"
+            "ext": "./js/呦呦DJ.js"
         },
         {
             "key": "清风DJ",
