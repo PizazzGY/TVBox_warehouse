@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "企鹅体育",
-            "name": "企鹅体育",
+            "name": "企鹅｜体育",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -17,7 +17,7 @@
         },
         {
             "key": "武享吧",
-            "name": "武享吧",
+            "name": "武享吧｜格斗",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "style": {
@@ -27,7 +27,7 @@
         },
         {
             "key": "88看球",
-            "name": "88看球",
+            "name": "88｜看球",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "style": {
@@ -37,7 +37,7 @@
         },
         {
             "key": "310直播",
-            "name": "310直播",
+            "name": "310｜直播",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "style": {
@@ -47,7 +47,7 @@
         },
         {
             "key": "JRKAN直播",
-            "name": "JRKAN直播",
+            "name": "JRKAN｜直播",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "style": {
@@ -57,7 +57,7 @@
         },
         {
             "key": "一起看直播",
-            "name": "一起看直播",
+            "name": "一起看｜直播",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
@@ -70,7 +70,7 @@
         },
         {
             "key": "push_agent",
-            "name": "推送",
+            "name": "手机｜推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
