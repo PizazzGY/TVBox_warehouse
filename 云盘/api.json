@@ -89,7 +89,7 @@
         },
         {
             "key": "玩偶弹幕",
-            "name": "弹幕｜玩偶哥哥",
+            "name": "玩偶哥哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -105,7 +105,7 @@
         },
         {
             "key": "玩偶备用弹幕",
-            "name": "弹幕｜玩偶备用",
+            "name": "玩偶备用｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
             "quickSearch": 1,
@@ -120,7 +120,7 @@
         },
         {
             "key": "夸克玩偶弹幕",
-            "name": "弹幕｜玩偶表哥",
+            "name": "玩偶表哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "searchable": 1,
@@ -135,7 +135,7 @@
         },
         {
             "key": "夸克土豆弹幕",
-            "name": "弹幕｜土豆",
+            "name": "土豆｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -150,7 +150,7 @@
         },
         {
             "key": "夸克多多弹幕",
-            "name": "弹幕｜多多",
+            "name": "多多｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -165,7 +165,7 @@
         },
         {
             "key": "夸克蜡笔弹幕",
-            "name": "弹幕｜蜡笔",
+            "name": "蜡笔｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -176,12 +176,11 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "site": "https://duopan.fun",
                 "danmu": true
-            },
-            "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"
+            }
         },
         {
             "key": "夸克至臻弹幕",
-            "name": "弹幕｜至臻",
+            "name": "至臻｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -197,7 +196,7 @@
         },
         {
             "key": "夸克奥秘弹幕",
-            "name": "弹幕｜奥秘",
+            "name": "奥秘｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -213,7 +212,7 @@
         },
         {
             "key": "夸克团长弹幕",
-            "name": "弹幕｜团长",
+            "name": "团长｜4K弹幕",
             "type": 3,
             "api": "csp_Tzfile",
             "searchable": 1,
@@ -227,7 +226,7 @@
         },
         {
             "key": "夸克影搜弹幕",
-            "name": "弹幕｜影搜",
+            "name": "影搜｜弹幕",
             "type": 3,
             "api": "csp_Yingso",
             "searchable": 1,
@@ -241,7 +240,7 @@
         },
         {
             "key": "搜索弹幕",
-            "name": "弹幕｜搜索",
+            "name": "搜索｜弹幕",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -254,7 +253,7 @@
         },
         {
             "key": "云云弹幕",
-            "name": "弹幕｜云云",
+            "name": "云云｜弹幕",
             "type": 3,
             "api": "csp_Upys",
             "searchable": 1,
@@ -267,7 +266,7 @@
         },
         {
             "key": "云搜弹幕",
-            "name": "弹幕｜云搜",
+            "name": "云搜｜弹幕",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -280,7 +279,7 @@
         },
         {
             "key": "盘搜弹幕",
-            "name": "弹幕｜盘搜",
+            "name": "盘搜｜弹幕",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -293,7 +292,7 @@
         },
         {
             "key": "易搜弹幕",
-            "name": "弹幕｜易搜",
+            "name": "易搜｜弹幕",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -307,7 +306,7 @@
         },
         {
             "key": "云盘弹幕",
-            "name": "弹幕｜云盘",
+            "name": "云盘｜弹幕",
             "type": 3,
             "api": "csp_Yunpan4k",
             "searchable": 1,
@@ -321,7 +320,7 @@
         },
         {
             "key": "米搜弹幕",
-            "name": "弹幕｜米搜",
+            "name": "米搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso",
             "searchable": 1,
@@ -335,7 +334,7 @@
         },
         {
             "key": "夸搜弹幕",
-            "name": "弹幕｜夸搜",
+            "name": "夸搜｜弹幕",
             "type": 3,
             "api": "csp_Qkso",
             "searchable": 1,
@@ -348,7 +347,7 @@
         },
         {
             "key": "小纸条弹幕",
-            "name": "弹幕｜小纸条",
+            "name": "小纸条｜弹幕",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
@@ -361,7 +360,7 @@
         },
         {
             "key": "夸克趣盘搜弹幕",
-            "name": "弹幕｜趣盘搜",
+            "name": "趣盘搜｜弹幕",
             "type": 3,
             "api": "csp_QuPanSou",
             "searchable": 1,
@@ -375,7 +374,7 @@
         },
         {
             "key": "夸克爱盘搜弹幕",
-            "name": "弹幕｜爱盘搜",
+            "name": "爱盘搜｜弹幕",
             "type": 3,
             "api": "csp_AiPanSou",
             "searchable": 1,
@@ -389,7 +388,7 @@
         },
         {
             "key": "夸克盘搜弹幕",
-            "name": "弹幕｜夸克盘搜",
+            "name": "夸克盘搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso",
             "searchable": 1,
@@ -402,7 +401,7 @@
         },
         {
             "key": "push_agent",
-            "name": "推送",
+            "name": "手机｜推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
