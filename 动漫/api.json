@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ed6d20f8cf64d14f1efc46caa3c0f474",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -129,6 +129,13 @@
             "ext": "./JS/大米动漫.js"
         },
         {
+            "key": "维奇动漫",
+            "name": "维奇｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/维奇动漫.js"
+        },
+        {
             "key": "暮暮动漫",
             "name": "暮暮｜动漫",
             "type": 3,
@@ -151,8 +158,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "danmu": true
-            },
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;./danmu.jar;md5;ed6d20f8cf64d14f1efc46caa3c0f474"
+            }
         }
     ],
     "parses": [
