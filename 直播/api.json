@@ -64,17 +64,6 @@
             "ext": "./js/哔哩直播.js"
         },
         {
-            "key": "网易CC",
-            "name": "网易｜直播",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/网易CC.json",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8"
-        },
-        {
             "key": "push_agent",
             "name": "手机｜推送",
             "type": 3,
