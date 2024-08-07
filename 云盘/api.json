@@ -481,7 +481,7 @@
             "type": 0,
             "url": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "playerType": 1,
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
     "ijk": [
