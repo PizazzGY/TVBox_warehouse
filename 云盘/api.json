@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -481,7 +481,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
