@@ -23,7 +23,3 @@ https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_ware
 位置：根目录/TVBox/wallpaper.jpg
 
 注：如果出现弹幕无法加载或加载失败的问题，清理软件数据，并重新配置即可解决。
-
-# TVBox系列软件
-
-https://www.123pan.com/s/sPNbVv-67SXv
