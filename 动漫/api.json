@@ -73,13 +73,6 @@
             "ext": "./JS/喵物次元.js"
         },
         {
-            "key": "妮可动漫",
-            "name": "妮可｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/妮可动漫.js"
-        },
-        {
             "key": "奇米动漫",
             "name": "奇米｜动漫",
             "type": 3,
@@ -99,13 +92,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/花子动漫.js"
-        },
-        {
-            "key": "驴番动漫",
-            "name": "驴番｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/驴番动漫.js"
         },
         {
             "key": "动漫巴士",
