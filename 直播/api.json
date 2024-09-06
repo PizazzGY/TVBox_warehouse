@@ -3,14 +3,13 @@
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
-            "key": "网络直播",
-            "name": "网络｜直播",
+            "key": "快手直播",
+            "name": "快手｜直播",
             "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf"
+            "api": "csp_KsLive",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
         },
         {
             "key": "配置中心",
@@ -24,23 +23,6 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "网红直播",
-            "name": "网红｜直播",
-            "type": 3,
-            "api": "csp_JustLive",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "快手直播",
-            "name": "快手｜直播",
-            "type": 3,
-            "api": "csp_KsLive",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
         },
         {
             "key": "斗鱼直播",
