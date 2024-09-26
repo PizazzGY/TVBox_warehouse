@@ -3,13 +3,14 @@
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
-            "key": "快手直播",
-            "name": "快手｜直播",
+            "key": "Alllive",
+            "name": "一直播｜首页",
             "type": 3,
-            "api": "csp_KsLive",
+            "api": "csp_Alllive",
+            "playerType": 2,
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "changeable": 0
         },
         {
             "key": "配置中心",
@@ -23,6 +24,15 @@
                 "type": "rect",
                 "ratio": 1.597
             }
+        },
+        {
+            "key": "快手直播",
+            "name": "快手｜直播",
+            "type": 3,
+            "api": "csp_KsLive",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
         },
         {
             "key": "斗鱼直播",
