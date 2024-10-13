@@ -49,17 +49,6 @@
             }
         },
         {
-            "key": "不太灵弹幕",
-            "name": "不太灵｜弹幕",
-            "type": 3,
-            "api": "csp_Bt0",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "荐片",
             "name": "荐片｜磁力",
             "type": 3,
