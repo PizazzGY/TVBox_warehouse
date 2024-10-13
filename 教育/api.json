@@ -4,13 +4,10 @@
     "sites": [
         {
             "key": "兔小贝",
-            "name": "兔小贝｜儿童",
+            "name": "兔小贝｜首页",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/兔小贝.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "ext": "./js/兔小贝.js"
         },
         {
             "key": "配置中心",
@@ -24,6 +21,13 @@
                 "type": "rect",
                 "ratio": 1.597
             }
+        },
+        {
+            "key": "贝乐虎",
+            "name": "贝乐虎｜儿童",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/贝乐虎.js"
         },
         {
             "key": "儿童拼音",
