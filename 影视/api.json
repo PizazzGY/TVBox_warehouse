@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -76,6 +76,18 @@
             "name": "热播｜弹幕",
             "type": 3,
             "api": "csp_ReBo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "糯米弹幕",
+            "name": "糯米｜弹幕",
+            "type": 3,
+            "api": "csp_Nmys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -375,6 +387,15 @@
             "filterable": 1
         },
         {
+            "key": "农民影视",
+            "name": "农民｜影视",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "立播影视",
             "name": "立播｜影视",
             "type": 3,
@@ -406,16 +427,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://fm666.qkw1.cc"
-        },
-        {
-            "key": "农民影视",
-            "name": "农民｜影视",
-            "type": 3,
-            "api": "csp_Nongm",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "ext": "https://888.qkw2.cc"
         },
         {
             "key": "看客影视",
@@ -424,19 +436,11 @@
             "api": "csp_Kanke",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.kmeiju.com"
         },
         {
-            "key": "爱看影视",
-            "name": "爱看｜影视",
-            "type": 3,
-            "api": "csp_Ikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "瓜子｜影视",
+            "key": "瓜子影视",
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
@@ -469,13 +473,23 @@
             "api": "csp_FreeOK",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.freeok.lol"
+        },
+        {
+            "key": "奇优影视",
+            "name": "奇优｜影视",
+            "type": 3,
+            "api": "csp_Qiyou",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "兄弟影视",
-            "name": "兄弟｜影视",
+            "key": "骚火影视",
+            "name": "骚火｜影视",
             "type": 3,
-            "api": "csp_Xdys",
+            "api": "csp_SaoHuo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -500,21 +514,13 @@
             "ext": "https://vidhub1.cc"
         },
         {
-            "key": "达达龟",
-            "name": "达达龟｜影视",
-            "type": 3,
-            "api": "csp_Dadag",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "素白白",
             "name": "素白白｜影视",
             "type": 3,
             "api": "csp_Subaibai",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "小苹果",
