@@ -1011,25 +1011,23 @@
         },
         {
             "name": "XG蓝光",
-            "url": "http://43.248.100.147:6068/bba/etkx.php?url=",
+            "url": "http://43.248.100.147:6068/bba/bbajson.php?url=",
             "flag": [
                 "BBA"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
+            }
         },
         {
             "name": "XM蓝光",
-            "url": "http://121.62.61.51:6888/api/?key=wyn1txZX5RKA2kVFUX&url=",
+            "url": "http://121.62.61.51:6888/api/?key=OGTam1Ld9HXVPAcHxD&url=",
             "flag": [
                 "NBY"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
+            }
         },
         {
             "name": "MX蓝光",
@@ -1039,19 +1037,7 @@
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
-        },
-        {
-            "name": "LX蓝光",
-            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-            "flag": [
-                "LXTX"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
+            }
         },
         {
             "name": "TX蓝光",
@@ -1061,8 +1047,7 @@
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
+            }
         },
         {
             "name": "MY蓝光",
@@ -1074,8 +1059,7 @@
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
+            }
         },
         {
             "name": "BN蓝光",
@@ -1085,8 +1069,7 @@
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
+            }
         },
         {
             "name": "DJ专线",
@@ -1096,12 +1079,11 @@
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
+            }
         },
         {
             "name": "XGJ官解",
-            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/tx.php?url=",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/60.php?url=",
             "flag": [
                 "youku",
                 "qq",
@@ -1114,12 +1096,11 @@
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
+            }
         },
         {
             "name": "XGJ聚合",
-            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/zh.php?url=",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
             "flag": [
                 "youku",
                 "qq",
@@ -1131,7 +1112,6 @@
                 "NBY",
                 "ETH-",
                 "BBA",
-                "LXTX",
                 "TX",
                 "MXTV",
                 "mytv",
@@ -1142,8 +1122,7 @@
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
+            }
         },
         {
             "name": "线路1",
