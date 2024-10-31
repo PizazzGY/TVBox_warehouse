@@ -58,6 +58,33 @@
             "ext": "./js/蜻蜓FM.js"
         },
         {
+            "key": "老白听书",
+            "name": "老白｜听书",
+            "type": 3,
+            "api": "csp_BookLaoBai",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "https://apk-lb-json.fodexin.com##"
+        },
+        {
+            "key": "爱听听书",
+            "name": "爱听｜听书",
+            "type": 3,
+            "api": "csp_BookYSTS",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
             "key": "博看听书",
             "name": "博看｜听书",
             "type": 3,
