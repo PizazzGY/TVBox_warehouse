@@ -35,18 +35,46 @@
             "filterable": 1
         },
         {
-            "key": "斗鱼直播",
-            "name": "斗鱼｜直播",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/斗鱼直播.js"
-        },
-        {
             "key": "虎牙直播",
             "name": "虎牙｜直播",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/虎牙直播.js"
+            "api": "csp_AmuHuYa",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "斗鱼直播",
+            "name": "斗鱼｜直播",
+            "type": 3,
+            "api": "csp_AmuDouYu",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "抖音直播",
+            "name": "抖音｜直播",
+            "type": 3,
+            "api": "csp_AmuDouYin",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
         },
         {
             "key": "哔哩直播",
