@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;31ebc1142213047d6bf92667086ed76d",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -34,13 +34,6 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "四维空间弹幕",
-            "name": "四维空间｜4K弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/四维空间弹幕.js"
         },
         {
             "key": "南瓜弹幕",
