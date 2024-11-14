@@ -173,9 +173,37 @@
             }
         },
         {
-            "name": "推荐4K",
-            "type": 1,
-            "url": "http://jx.jwl.icu/jx.php?url="
+            "name": "臻享",
+            "type": "1",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "NBY",
+                    "ETH-",
+                    "BBA",
+                    "TX",
+                    "MXTV",
+                    "mytv",
+                    "nmys",
+                    "yhdm",
+                    "BNNB",
+                    "letu",
+                    "DJWB",
+                    "DJWX",
+                    "DJWT",
+                    "duanju"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
         },
         {
             "name": "线路1",
